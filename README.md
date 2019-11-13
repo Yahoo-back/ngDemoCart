@@ -3,7 +3,20 @@ npm install
 # 运行并在浏览器打开
 ng serve -o
 
+# 商品列表界面
+![Image text](https://github.com/Yahoo-back/ngDemoCart/blob/master/src/assets/1.png)
 
+# 商品详情
+![Image text](https://github.com/Yahoo-back/ngDemoCart/blob/master/src/assets/2.png)
+
+# 点击商品详情内的bug按钮,再点击右上角购物车及商品加入购物车
+![Image text](https://github.com/Yahoo-back/ngDemoCart/blob/master/src/assets/3.png)
+
+# 表单内输入name和address
+![Image text](https://github.com/Yahoo-back/ngDemoCart/blob/master/src/assets/4.png)
+
+# 点击shipping查看运费情况
+![Image text](https://github.com/Yahoo-back/ngDemoCart/blob/master/src/assets/5.png)
 
 # DemoNg
 
