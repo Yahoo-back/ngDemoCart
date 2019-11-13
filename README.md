@@ -1,3 +1,10 @@
+# 项目启动运行
+npm install
+# 运行并在浏览器打开
+ng serve -o
+
+
+
 # DemoNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
